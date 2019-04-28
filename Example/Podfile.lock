@@ -1,10 +1,10 @@
 PODS:
-  - BMPlayer/CacheSupport (1.2.0):
+  - BMPlayer/CacheSupport (1.2.1):
     - BMPlayer/Core
     - NVActivityIndicatorView (~> 4.6.1)
     - SnapKit (~> 4.2.0)
     - VIMediaCache
-  - BMPlayer/Core (1.2.0)
+  - BMPlayer/Core (1.2.1)
   - NVActivityIndicatorView (4.6.1):
     - NVActivityIndicatorView/Presenter (= 4.6.1)
   - NVActivityIndicatorView/Presenter (4.6.1)
@@ -31,7 +31,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BMPlayer: 7e279b69b4bc90aaf4150f86b042a5896206ee62
+  BMPlayer: ea12f9d82e37f968dea2078b5e58e356ee4439d8
   NVActivityIndicatorView: 4ca19fccc84595a78957336a086d00a49be6ce61
   Reveal-SDK: 43206a57f575632fd304e85385cc259b5d359e32
   SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
@@ -40,4 +40,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: e6260ad2cccc640a9c4d2b9ffbcf0063728b772b
 
-COCOAPODS: 1.6.0
+COCOAPODS: 1.6.1
